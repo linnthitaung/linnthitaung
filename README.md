@@ -12,11 +12,15 @@ I enjoy building **software, web applications, and useful little tools** — esp
 
 ### Skills
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nextjs,fastapi,html,css,git,github" />
+</p>
+
 ### GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=linnnxyz&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=linnnxyz&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=linnthitaung&show_icons=true&hide_border=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=linnthitaung&hide_border=true" height="160" />
 </p>
 
 ### Main projects
