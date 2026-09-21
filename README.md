@@ -18,7 +18,7 @@ I enjoy building **software, web applications, and useful little tools** — esp
 
 ### Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnthitaung&layout=compact&hide_border=true" height="160">
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=linnthitaung)](https://github.com/stats-organization/github-stats-extended)
 
 ### GitHub
 
