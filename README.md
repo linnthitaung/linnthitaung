@@ -18,9 +18,7 @@ I enjoy building **software, web applications, and useful little tools** — esp
 
 ### Top Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nextjs,fastapi,html,css,git,github" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnthitaung&layout=compact&hide_border=true" height="160">
 
 ### GitHub
 
