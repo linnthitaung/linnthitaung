@@ -8,7 +8,8 @@ I enjoy building **software, web applications, and useful little tools** — esp
 
 ### Links
 
-[🌐 Portfolio](https://linnthit.com) · [💼 LinkedIn](https://linkedin.com) · [📷 Instagram](https://instagram.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-linnthit.com-111111?style=flat-square)](https://linnthit.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Profile-111111?style=flat-square)]([https://linkedin.com](https://www.linkedin.com/in/linn-thit-aung-502768284/))
 
 ### Skills
 
@@ -16,18 +17,13 @@ I enjoy building **software, web applications, and useful little tools** — esp
   <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nextjs,fastapi,html,css,git,github" />
 </p>
 
-### Top Languages
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=linnthitaung)](https://github.com/stats-organization/github-stats-extended)
-
 ### GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=linnthitaung&show_icons=true&hide_border=true&count_private=true" height="160" />
   <img src="https://streak-stats.demolab.com?user=linnthitaung&hide_border=true" height="160" />
 </p>
 
-### Main projects
+### Take a look at these...
 
 **🧰 [Pocket](https://github.com/linnnxyz)**
 A collection of lightweight developer tools.
