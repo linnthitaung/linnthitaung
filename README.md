@@ -16,6 +16,12 @@ I enjoy building **software, web applications, and useful little tools** — esp
   <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nextjs,fastapi,html,css,git,github" />
 </p>
 
+### Top Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nextjs,fastapi,html,css,git,github" />
+</p>
+
 ### GitHub
 
 <p>
@@ -33,11 +39,6 @@ A lightweight API for extracting statistics from text.
 
 **♦️ [Ruby](https://github.com/linnnxyz/ruby)**
 A lightweight OCR API for extracting text from images.
-
-
-### Contributions
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=linnthitaung&hide_border=true)
 
 ---
 
