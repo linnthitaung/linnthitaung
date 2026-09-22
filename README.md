@@ -1,4 +1,4 @@
-# Hello, I'm Linn!
+# Hello, I'm Linn! 👋🏻
 
 ```
 linnthitaung/
