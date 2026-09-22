@@ -46,7 +46,7 @@ Started web development · HTML / CSS / Bootstrap
 Diploma in Information Technology · Ngee Ann Polytechnic
 
 `Linn v2.5` — **2025**
-Hackathons · Finalist · 34+ personal projects
+Hackathons · Finalist · 23+ personal projects
 
 `Linn v3.0` — **2026**
 Software Engineering Intern · OCBC
@@ -54,7 +54,7 @@ Software Engineering Intern · OCBC
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/34-Personal%20Projects-18181B?style=flat-square" />
+<img src="https://img.shields.io/badge/30-Total Projects-18181B?style=flat-square" />
 <img src="https://img.shields.io/badge/5-Hackathons-18181B?style=flat-square" />
 <img src="https://img.shields.io/badge/1-Internship-18181B?style=flat-square" />
 <img src="https://img.shields.io/badge/0-Open%20Source-18181B?style=flat-square" />
