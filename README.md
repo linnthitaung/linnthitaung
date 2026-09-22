@@ -9,16 +9,6 @@ linnthitaung/
 
 ```
 
-<div align="center">
-
-<a href="https://linnthit.com">
-<img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=googlechrome&logoColor=FFFFFF" />
-</a>
-<a href="https://www.linkedin.com/in/linn-thit-aung-502768284/">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=FFFFFF" />
-</a>
-</div>
-
 ### About Me
 
 I'm an **Diploma in Information Technology** student at Ngee Ann Polytechnic and a self-taught developer.
@@ -31,6 +21,17 @@ I'm an **Diploma in Information Technology** student at Ngee Ann Polytechnic and
 
 Making the internet a little more fun for everyone is the mindset I carry every day.
 > I love finding the little pieces missing from the web and building something that fits perfectly into the gap ;)
+
+<div align="center">
+  <a href="https://linnthit.com">
+    <img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=googlechrome&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/linn-thit-aung-502768284/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=FFFFFF" />
+  </a>
+</div>
+
+---
 
 ### Achievements
 
@@ -55,6 +56,8 @@ Software Engineering Intern · OCBC
   <img src="https://img.shields.io/badge/1-Internship-18181B?style=flat-square" />
   <img src="https://img.shields.io/badge/0-Open%20Source-18181B?style=flat-square" />
 </div>
+
+---
 
 ### Activities
 <!-- Profile Summary -->
