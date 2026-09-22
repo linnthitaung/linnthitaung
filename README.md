@@ -6,7 +6,6 @@ linnthitaung/
 ├── about_me.md
 ├── achievements.md
 └── activities.log
-
 ```
 
 ## About Me
@@ -20,7 +19,7 @@ I'm an **Diploma in Information Technology** student at Ngee Ann Polytechnic and
 └──────────────────────────────────────┘
 ```
 
-Making the internet a little more fun for everyone is the mindset I carry every day.
+> Making the internet a little more fun for everyone is the mindset I carry every day.
 > I love finding the little pieces missing from the web and building something that fits perfectly into the gap ;)
 
 <div align="center">
