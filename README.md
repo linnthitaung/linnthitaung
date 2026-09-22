@@ -1,34 +1,69 @@
 # Hello, I'm Linn!
 
-### About me
+```
+linnthitaung/
 
-I'm an **IT student and developer** based in Singapore 🇸🇬.
+├── about_me.md
+├── achievements.md
+└── activities.log
 
-I enjoy building **software, web applications, and useful little tools** — especially projects that combine code, design, and creativity.
+```
 
-### Links
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-linnthit.com-111111?style=flat-square)](https://linnthit.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Profile-111111?style=flat-square)]([https://linkedin.com](https://www.linkedin.com/in/linn-thit-aung-502768284/))
+<a href="https://linnthit.com">
+<img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=googlechrome&logoColor=FFFFFF" />
+</a>
+<a href="https://www.linkedin.com/in/linn-thit-aung-502768284/">
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=FFFFFF" />
+</a>
+</div>
 
-### Skills
+### About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nextjs,fastapi,html,css,git,github" />
-</p>
+I'm an **Diploma in Information Technology** student at Ngee Ann Polytechnic and a self-taught developer.
 
-### GitHub
+```
+┌──────────────────────────────────────┐
+│ I build things I wish existed.       │
+└──────────────────────────────────────┘
+```
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=linnthitaung&hide_border=true" height="160" />
-</p>
+Making the internet a little more fun for everyone is the mindset I carry every day.
+> I love finding the little pieces missing from the web and building something that fits perfectly into the gap ;)
 
-### Most Used Languages
+### Achievements
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnthitaung&layout=compact&hide_border=true&langs_count=6" height="160">
-</p>
+`Linn v1.0` — **2018**
+First Tech Project · Windows Batch
 
----
+`Linn v1.5` — **2019**
+Started web development · HTML / CSS / Bootstrap
 
-> I like making the internet a little more fun for everyone.
+`Linn v2.0` — **2024**
+Diploma in Information Technology · Ngee Ann Polytechnic
+
+`Linn v2.5` — **2025**
+Hackathons · Finalist · 34+ personal projects
+
+`Linn v3.0` — **2026**
+Software Engineering Intern · OCBC
+
+<div align="center">
+  <img src="https://img.shields.io/badge/34-Personal%20Projects-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/5-Hackathons-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/1-Internship-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/0-Open%20Source-18181B?style=flat-square" />
+</div>
+
+### Activities
+<!-- Profile Summary -->
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linnthitaung&theme=default)](https://github.com/linnthitaung)
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=linnthitaung&layout=compact&langs_count=6&hide_border=true" height="160">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=linnthitaung&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/linnthitaung?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/linnthitaung?style=flat-square" />
+</div>
