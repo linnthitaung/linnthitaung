@@ -10,7 +10,7 @@ linnthitaung/
 
 ## About Me
 
-I'm an **Diploma in Information Technology** student at Ngee Ann Polytechnic and a self-taught developer.
+I'm **Diploma in Information Technology** student at Ngee Ann Polytechnic and a self-taught developer.
 
 
 ```
